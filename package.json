@@ -1,0 +1,22 @@
+{
+  "name": "imma-let-you-finish",
+  "version": "1.0.0",
+  "description": "Toy proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcsparker/imma-let-you-finish.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Chris Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrcsparker/imma-let-you-finish/issues"
+  },
+  "homepage": "https://github.com/mrcsparker/imma-let-you-finish#readme"
+}
