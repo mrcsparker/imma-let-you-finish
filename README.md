@@ -5,7 +5,11 @@ Simple, simple, simple proxy server
 ## Run
 
 ```
-node index.js
+> node index.js
 ```
 
-Proxy server is on port 80.
+Proxy server is on port 8080.
+
+```
+> http_proxy=http://localhost:8080 curl http://google.com
+```
